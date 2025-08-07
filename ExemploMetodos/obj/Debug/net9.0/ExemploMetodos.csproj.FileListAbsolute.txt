@@ -1,0 +1,14 @@
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploMetodos\bin\Debug\net9.0\ExemploMetodos.exe
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploMetodos\bin\Debug\net9.0\ExemploMetodos.deps.json
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploMetodos\bin\Debug\net9.0\ExemploMetodos.runtimeconfig.json
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploMetodos\bin\Debug\net9.0\ExemploMetodos.dll
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploMetodos\bin\Debug\net9.0\ExemploMetodos.pdb
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploMetodos\obj\Debug\net9.0\ExemploMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploMetodos\obj\Debug\net9.0\ExemploMetodos.AssemblyInfoInputs.cache
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploMetodos\obj\Debug\net9.0\ExemploMetodos.AssemblyInfo.cs
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploMetodos\obj\Debug\net9.0\ExemploMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploMetodos\obj\Debug\net9.0\ExemploMetodos.dll
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploMetodos\obj\Debug\net9.0\refint\ExemploMetodos.dll
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploMetodos\obj\Debug\net9.0\ExemploMetodos.pdb
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploMetodos\obj\Debug\net9.0\ExemploMetodos.genruntimeconfig.cache
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploMetodos\obj\Debug\net9.0\ref\ExemploMetodos.dll

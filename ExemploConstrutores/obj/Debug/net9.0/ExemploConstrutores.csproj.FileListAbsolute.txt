@@ -1,0 +1,14 @@
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploConstrutores\bin\Debug\net9.0\ExemploConstrutores.exe
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploConstrutores\bin\Debug\net9.0\ExemploConstrutores.deps.json
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploConstrutores\bin\Debug\net9.0\ExemploConstrutores.runtimeconfig.json
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploConstrutores\bin\Debug\net9.0\ExemploConstrutores.dll
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploConstrutores\bin\Debug\net9.0\ExemploConstrutores.pdb
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploConstrutores\obj\Debug\net9.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploConstrutores\obj\Debug\net9.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploConstrutores\obj\Debug\net9.0\ExemploConstrutores.AssemblyInfo.cs
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploConstrutores\obj\Debug\net9.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploConstrutores\obj\Debug\net9.0\ExemploConstrutores.dll
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploConstrutores\obj\Debug\net9.0\refint\ExemploConstrutores.dll
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploConstrutores\obj\Debug\net9.0\ExemploConstrutores.pdb
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploConstrutores\obj\Debug\net9.0\ExemploConstrutores.genruntimeconfig.cache
+C:\Users\Giancarlo\programacao\DotNetPropriedadeMetodosConstrutores\ExemploConstrutores\obj\Debug\net9.0\ref\ExemploConstrutores.dll
